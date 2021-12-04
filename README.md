@@ -9,8 +9,8 @@
 > **Academic career**: _Computational and Cognitive Neuroscience MSC_ ← _Psychology BA_
 >
 > **Editors**: `neovim` ← `vim` &larr; `Atom`
->
-> [LinkedIn profile](https://www.linkedin.com/in/fulop-kovacs/)
+
+[LinkedIn profile](https://www.linkedin.com/in/fulop-kovacs/) | [Creative works](https://www.behance.net/gallery/132579721/Creative-Portfolio)
 
 ## Experience
 
