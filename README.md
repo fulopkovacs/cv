@@ -4,11 +4,11 @@
 
 > **TLDR;**
 >
-> **My career so far**: _Data Engineering_ ← _Front End Development_ ← _UI/UX
-> design_ ← _Animation_ ← _Graphic Design_
+> **My career so far**: _Front End Development_ <- _Data Engineering_ ← _Front
+> End Development_ ← _UI/UX design_ ← _Animation_ ← _Graphic Design_
 >
-> **Academic career**: _Computational and Cognitive Neuroscience MSC_ ←
-> _Psychology BA_
+> **Academic career**: _Computational and Cognitive Neuroscience MSC_ (1 thesis
+> away from this degree) ← _Psychology BA_
 >
 > **Editors**: `neovim` ← `vim` &larr; `Atom`
 
@@ -17,7 +17,48 @@
 
 ## Experience
 
-- **Data Engineer**, [_benchmark.games_](https://www.benchmark.games/) (2020-)
+- **Front End Engineer**, [Theatre.js](theatrejs.com), on GitHub:
+  [`theatrejs/theatre`](https://github.com/theatre-js/theatre) (2022)
+
+  > Theatre.js is a company whose main product is an open-source animation
+  > library for high-fidelity motion graphics. This library has a studio
+  > interface where users can visually animate basically anything in the
+  > browser.
+
+  - built complex UI-s for an animation application that ran in the browser (an
+    example feature: a focus range for the timeline
+    ([PR](https://github.com/theatre-js/theatre/pull/94)))
+    ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  - worked on the documentation and get started guides of the packages
+    maintained by the company (example guide: an introduction to
+    `@theatre/dataverse`, the reactive dataflow library that Theatre.js is built
+    upon [PR](https://github.com/theatre-js/theatre/pull/116/)))
+  - started using THREE.js (3D library for the web) to provide help for our
+    users who wanted to add Theatre.js to their THREE.js-projects
+    ![THREE.js](https://img.shields.io/badge/ThreeJs-black?style=flat&logo=three.js&logoColor=white)
+  - wrote and deployed a backend server with an API, set up and managed the
+    database related to it
+    ![Fastify](https://img.shields.io/badge/fastify-202020?style=flat&logo=fastify&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+    ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+  - introduced Metabase for data visualisation
+    ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=fff)
+  - Managed the deployments (and lead the migration from Netlify to Vercel after
+    encountering a serious bug).
+
+- **Data Engineer**, [_benchmark.games_](https://www.benchmark.games/)
+  (2020-2022)
+
+  > From the [company's website](https://www.benchmark.games): _"Through
+  > game-based assessments, Benchmark.games helps to digitalize the recruitment
+  > process, redefines talent management and supports job-seekers in finding
+  > their best career fit. We provide our clients with a shortlist of
+  > candidates, which is based on on-the-job abilities, behavioral patterns, as
+  > well as machine learning algorithms that can predict job fit. We make the
+  > entire pre-selection process more engaging through game mechanics and more
+  > predictive via machine learning algorithms."_
 
   - helped the data scientist to implement statistical/ML models in production
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
