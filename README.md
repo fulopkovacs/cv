@@ -47,6 +47,8 @@
     ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=fff)
   - Managed the deployments (and lead the migration from Netlify to Vercel after
     encountering a serious bug).
+    ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 - **Data Engineer**, [_benchmark.games_](https://www.benchmark.games/)
   (2020-2022)
