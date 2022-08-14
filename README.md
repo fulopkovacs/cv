@@ -25,12 +25,12 @@
   > interface where users can visually animate basically anything in the
   > browser.
 
-  - built complex UI-s for an animation application that ran in the browser (an
+  - built complex UIs for an animation application that ran in the browser (an
     example feature: a focus range for the timeline
     ([PR](https://github.com/theatre-js/theatre/pull/94)))
     ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  - worked on the documentation and get started guides of the packages
+  - worked on the documentation and _Get started_ guides of the packages
     maintained by the company (example guide: an introduction to
     `@theatre/dataverse`, the reactive dataflow library that Theatre.js is built
     upon [PR](https://github.com/theatre-js/theatre/pull/116/)))
@@ -45,7 +45,7 @@
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   - introduced Metabase for data visualisation
     ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=fff)
-  - Managed the deployments (and lead the migration from Netlify to Vercel after
+  - managed the deployments (and lead the migration from Netlify to Vercel after
     encountering a serious bug).
     ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
     ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
