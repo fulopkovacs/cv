@@ -43,7 +43,7 @@
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
     ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-  - introduced Metabase for data visualisation
+  - introduced Metabase for data visualization
     ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=fff)
   - managed the deployments (and lead the migration from Netlify to Vercel after
     encountering a serious bug).
