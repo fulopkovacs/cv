@@ -15,6 +15,8 @@
 [LinkedIn profile](https://www.linkedin.com/in/fulop-kovacs/) |
 [Creative work](https://www.behance.net/gallery/132579721/Creative-Portfolio)
 
+**⚠️ This CV is outdated, please check out my updated CV on my website: [hi.fulop.dev](https://hi.fulop.dev).**
+
 ## Experience
 
 - **Front End Engineer**, [Theatre.js](theatrejs.com), on GitHub:
